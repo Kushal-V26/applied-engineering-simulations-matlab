@@ -4,17 +4,18 @@ Numerical analysis, structural optimization, dynamic simulations, and signal pro
 
 A generic MATLAB solver for analyzing 2D pin-jointed trusses, checking kinematic/static determinacy, and classifying internal member forces.
 
-## Key Visualizations
+## Results
 
 ### Truss Configurations & Force Analysis
 
 | Truss 1 | Truss 2 |
-| :---: | :---: |
-| Truss 1 | Truss 2 |
-| :---: | :---: |
-| ![Truss 1](01-Static-Truss-Solver/Results/Truss%201.png) | ![Truss 2](01-Static-Truss-Solver/Results/Truss%202.png) |
-| **Truss 3** | **Truss 4** |
-| ![Truss 3](01-Static-Truss-Solver/Results/Truss%203.png) | ![Truss 4](01-Static-Truss-Solver/Results/Truss%204.png) |
+|:---:|:---:|
+| <img src="01-Static-Truss-Solver/Results/Truss%201.png" width="400"> | <img src="01-Static-Truss-Solver/Results/Truss%202.png" width="400"> |
+
+| Truss 3 | Truss 4 |
+|:---:|:---:|
+| <img src="01-Static-Truss-Solver/Results/Truss%203.png" width="400"> | <img src="01-Static-Truss-Solver/Results/Truss%204.png" width="400"> |
+
 
 ## Methodology
 - **Kinematic Determinacy:** Evaluates degrees of freedom $f = 2k - (a + s)$ where $k$ is nodes, $a$ is bearing constraints, and $s$ is structural bars.
