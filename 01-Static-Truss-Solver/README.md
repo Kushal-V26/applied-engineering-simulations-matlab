@@ -10,7 +10,7 @@ A generic MATLAB solver for analyzing 2D pin-jointed trusses, checking kinematic
 
 | Truss 1 | Truss 2 |
 | :---: | :---: |
-| ![Truss 1](01-Static-Truss-Solver/Results/Truss%201.png) | ![Truss 2](01-Static-Truss-Solver/Results/Truss%202.png) |
+| ![Truss 1](01-Static-Truss-Solver/Results/Truss %201.png) | ![Truss 2](01-Static-Truss-Solver/Results/Truss%202.png) |
 
 | Truss 3 | Truss 4 |
 | :---: | :---: |
